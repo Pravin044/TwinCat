@@ -1,0 +1,23 @@
+﻿// Assembly TwinCAT.Ads, Version 4.3.0.0
+
+[assembly: System.Runtime.CompilerServices.CompilationRelaxations(8)]
+[assembly: System.Runtime.CompilerServices.RuntimeCompatibility(WrapNonExceptionThrows=true)]
+[assembly: System.Diagnostics.Debuggable(System.Diagnostics.DebuggableAttribute.DebuggingModes.IgnoreSymbolStoreSequencePoints)]
+[assembly: System.CLSCompliant(false)]
+[assembly: System.Reflection.AssemblyConfiguration("")]
+[assembly: System.Reflection.AssemblyTrademark("Beckhoff Automation GmbH  & Co. KG 2001-2019")]
+[assembly: System.Reflection.AssemblyCompany("Beckhoff Automation GmbH & Co. KG")]
+[assembly: System.Reflection.AssemblyCopyright("Copyright \x00a9 Beckhoff Automation GmbH & Co. KG 2001 - 2019")]
+[assembly: System.Reflection.AssemblyProduct("TwinCAT")]
+[assembly: System.Reflection.AssemblyInformationalVersion("4.3.0.0")]
+[assembly: System.Reflection.AssemblyFileVersion("4.3.7.0")]
+[assembly: System.Reflection.AssemblyTitle("TwinCAT ADS Component")]
+[assembly: System.Reflection.AssemblyDescription("TwinCAT ADS Component")]
+[assembly: System.Security.SecurityRules(2)]
+[assembly: System.Resources.NeutralResourcesLanguage("en")]
+[assembly: System.Runtime.InteropServices.ComVisible(false)]
+[assembly: System.Runtime.CompilerServices.SuppressIldasm]
+[assembly: System.Runtime.CompilerServices.InternalsVisibleTo("UnitTest.TwinCAT.Ads, PublicKey=002400000480000094000000060200000024000052534131000400000100010087cdb809286f490ec87ef0d144a00f4c064e9874e8858f9c0c3a6c40efd13d9917405ede2e6b845132e962f26eef7cc8ed599b9513e785760b53119f1dfffd1145e3cbed17867b8a5947af53c1b53420539382ac6c087586fc548ceb76f52f9235d7c72d5d1450cb633a323aa2c4d8e47b3f7abf47e4f12a61e9abb55d0479d1")]
+[assembly: System.Runtime.Versioning.TargetFramework(".NETFramework,Version=v4.0,Profile=Client", FrameworkDisplayName=".NET Framework 4 Client Profile")]
+[assembly: System.Security.Permissions.SecurityPermission(System.Security.Permissions.SecurityAction.RequestMinimum, SkipVerification=true)]
+
